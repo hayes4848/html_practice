@@ -1,0 +1,82 @@
+h1{
+  color:#00FF00;
+  font-family: cursive;
+  font-size: 100px;
+  text-align: center;
+}
+p{ 
+  color:#0066FF;
+  font-size: 25px;
+
+
+  }
+.text{
+  text-align: center;
+}
+
+h3{
+  font-size: 35px;
+  color:#FF9900;
+  float: left;
+  position: absolute;
+  padding: 75px 75px 75px 75px;
+}
+a{
+text-decoration: none;
+color:#FF0000;
+font-size:25px;
+
+}
+a:visited{
+  color:#0033CC;
+}
+a:hover{
+  color:#000000;
+}
+img{width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+li{float:left;
+  padding: 15px;
+  background-color:#CC0000;
+  position: relative;
+   padding: 10px;
+   margin: 10px;
+    border-radius: 25px;
+    border: solid 2px #CC0000;
+  }
+  ul{
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+    width: 65%;
+    position: relative;
+    float: right;
+
+  }
+
+  footer{
+    margin-right: auto;
+    margin-left: auto;
+    width: 7%;
+    position: relative;
+    height: 20px;
+    color:#3D3D99;
+    border: solid 5px #66FF33 ;
+    background-color: #66FF33;
+    border-radius: 25px;
+    text-align: center;
+  }
+  body{
+    background-image: url('nurburgring.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    
+  }
+
+
+
+
